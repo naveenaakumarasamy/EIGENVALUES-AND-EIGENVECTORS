@@ -22,6 +22,7 @@ print('Eigen values are {} and Eigen Vectors are {}'.format(values,vectors))
 ```
 
 ## Output:
-![output](/[eigen values and vectors](https://user-images.githubusercontent.com/113497406/191299431-b97b8b11-465c-48bf-a653-2d054c5eb342.png))
+![eigen values and vectors](https://user-images.githubusercontent.com/113497406/191307165-214135c3-9edf-4327-b2f7-a8b4594e5507.png)
+
 ## Result:
 the eigen values and eigen vectors are executed successfully
